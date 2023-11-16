@@ -2,7 +2,7 @@
 // Template Name:UserLogin
 
 
-// Template Name:achivepage
+
 get_header();
     $userlogin = is_user_logged_in( )? 6:3;
 // $paged = get_query_var('paged')  ? get_query_var('paged'):1;
